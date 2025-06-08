@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css"
+     height="886px" preserveAspectRatio="none" style="width:448px;height:886px;background:#FFFFFF;" version="1.1"
+     viewBox="0 0 448 886" width="448px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing"
+              textLength="236" x="105" y="27.9951">Spring &#24490;&#29615;&#20381;&#36182;&#19977;&#32423;&#32531;&#23384;&#22788;&#29702;&#27969;&#31243;
+        </text>
+        <line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="48" x2="48" y1="73.5938"
+              y2="851.0469"/>
+        <line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="268" x2="268" y1="73.5938"
+              y2="851.0469"/>
+        <line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="342" x2="342" y1="73.5938"
+              y2="851.0469"/>
+        <line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="412" x2="412" y1="73.5938"
+              y2="851.0469"/>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="86"
+              x="5" y="42.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="12"
+              y="62.292">Spring&#23481;&#22120;
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="86"
+              x="5" y="850.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="12"
+              y="870.042">Spring&#23481;&#22120;
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="70"
+              x="233" y="42.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="240"
+              y="62.292">&#32531;&#23384;&#31995;&#32479;
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="70"
+              x="233" y="850.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="240"
+              y="870.042">&#32531;&#23384;&#31995;&#32479;
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="59"
+              x="313" y="42.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="320"
+              y="62.292">BeanA
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="59"
+              x="313" y="850.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="320"
+              y="870.042">BeanA
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="60"
+              x="382" y="42.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="389"
+              y="62.292">BeanB
+        </text>
+        <rect fill="#E2E2F0" height="30.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="60"
+              x="382" y="850.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="389"
+              y="870.042">BeanB
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="104.7266" y2="100.7266"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="104.7266" y2="108.7266"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="341.5" y1="104.7266" y2="104.7266"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="55"
+              y="99.6606">1. &#23454;&#20363;&#21270;BeanA
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="133.8594" y2="129.8594"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="133.8594" y2="137.8594"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="341.5" y1="133.8594"
+              y2="133.8594"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="78" x="65"
+              y="128.7935">&#26500;&#36896;&#20989;&#25968;&#23436;&#25104;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="162.9922" y2="158.9922"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="162.9922" y2="166.9922"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="162.9922" y2="162.9922"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="175" x="55"
+              y="157.9263">2. &#27880;&#20876;BeanA&#24037;&#21378;&#21040;&#19977;&#32423;&#32531;&#23384;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="192.125" y2="188.125"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="192.125" y2="196.125"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="341.5" y1="192.125" y2="192.125"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="55"
+              y="187.0591">3. &#24320;&#22987;&#23646;&#24615;&#27880;&#20837;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="221.2578" y2="217.2578"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="221.2578" y2="225.2578"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="341.5" y1="221.2578" y2="221.2578"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="65"
+              y="216.1919">4. &#38656;&#35201;BeanB
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="250.3906" y2="246.3906"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="250.3906" y2="254.3906"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="411" y1="250.3906" y2="250.3906"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="55"
+              y="245.3247">5. &#23454;&#20363;&#21270;BeanB
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="279.5234" y2="275.5234"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="279.5234" y2="283.5234"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="411" y1="279.5234"
+              y2="279.5234"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="78" x="65"
+              y="274.4575">&#26500;&#36896;&#20989;&#25968;&#23436;&#25104;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="308.6563" y2="304.6563"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="308.6563" y2="312.6563"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="308.6563" y2="308.6563"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="175" x="55"
+              y="303.5903">6. &#27880;&#20876;BeanB&#24037;&#21378;&#21040;&#19977;&#32423;&#32531;&#23384;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="337.7891" y2="333.7891"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="337.7891" y2="341.7891"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="411" y1="337.7891" y2="337.7891"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="55"
+              y="332.7231">7. &#24320;&#22987;&#23646;&#24615;&#27880;&#20837;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="366.9219" y2="362.9219"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="366.9219" y2="370.9219"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="411" y1="366.9219" y2="366.9219"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="65"
+              y="361.856">8. &#38656;&#35201;BeanA
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="396.0547" y2="392.0547"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="396.0547" y2="400.0547"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="396.0547" y2="396.0547"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="55"
+              y="390.9888">9. &#26597;&#35810;BeanA
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="425.1875" y2="421.1875"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="425.1875" y2="429.1875"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="267" y1="425.1875"
+              y2="425.1875"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183" x="65"
+              y="420.1216">10. &#19977;&#32423;&#32531;&#23384;&#20013;&#25214;&#21040;BeanA&#24037;&#21378;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="454.3203" y2="450.3203"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="454.3203" y2="458.3203"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="454.3203" y2="454.3203"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="196" x="55"
+              y="449.2544">11. &#25191;&#34892;&#24037;&#21378;&#33719;&#21462;BeanA&#26089;&#26399;&#24341;&#29992;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="483.4531" y2="479.4531"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="483.4531" y2="487.4531"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="267" y1="483.4531"
+              y2="483.4531"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="65"
+              y="478.3872">12. &#36820;&#22238;BeanA&#21322;&#25104;&#21697;&#23545;&#35937;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="512.5859" y2="508.5859"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="512.5859" y2="516.5859"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="512.5859" y2="512.5859"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="55"
+              y="507.52">13. &#31227;&#21160;BeanA&#21040;&#20108;&#32423;&#32531;&#23384;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="541.7188" y2="537.7188"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="541.7188" y2="545.7188"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="411" y1="541.7188" y2="541.7188"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="55"
+              y="536.6528">14. &#27880;&#20837;BeanA&#24341;&#29992;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="570.8516" y2="566.8516"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="570.8516" y2="574.8516"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="411" y1="570.8516"
+              y2="570.8516"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="102" x="65"
+              y="565.7856">15. &#23646;&#24615;&#27880;&#20837;&#23436;&#25104;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="599.9844" y2="595.9844"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="410" x2="400" y1="599.9844" y2="603.9844"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="411" y1="599.9844" y2="599.9844"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="153" x="55"
+              y="594.9185">16. &#25191;&#34892;@PostConstruct
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="629.1172" y2="625.1172"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="629.1172" y2="633.1172"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="411" y1="629.1172"
+              y2="629.1172"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="89" x="65"
+              y="624.0513">17. &#21021;&#22987;&#21270;&#23436;&#25104;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="658.25" y2="654.25"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="658.25" y2="662.25"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="658.25" y2="658.25"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="55"
+              y="653.1841">18. &#31227;&#21160;BeanB&#21040;&#19968;&#32423;&#32531;&#23384;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="687.3828" y2="683.3828"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="687.3828" y2="691.3828"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="341.5" y1="687.3828" y2="687.3828"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="55"
+              y="682.3169">19. &#27880;&#20837;BeanB&#24341;&#29992;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="716.5156" y2="712.5156"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="716.5156" y2="720.5156"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="341.5" y1="716.5156"
+              y2="716.5156"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="102" x="65"
+              y="711.4497">20. &#23646;&#24615;&#27880;&#20837;&#23436;&#25104;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="745.6484" y2="741.6484"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="340.5" x2="330.5" y1="745.6484" y2="749.6484"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="341.5" y1="745.6484" y2="745.6484"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="153" x="55"
+              y="740.5825">21. &#25191;&#34892;@PostConstruct
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="774.7813" y2="770.7813"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="49" x2="59" y1="774.7813" y2="778.7813"/>
+        <line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="48" x2="341.5" y1="774.7813"
+              y2="774.7813"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="89" x="65"
+              y="769.7153">22. &#21021;&#22987;&#21270;&#23436;&#25104;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="803.9141" y2="799.9141"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="803.9141" y2="807.9141"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="803.9141" y2="803.9141"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="55"
+              y="798.8481">23. &#31227;&#21160;BeanA&#21040;&#19968;&#32423;&#32531;&#23384;
+        </text>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="833.0469" y2="829.0469"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="266" x2="256" y1="833.0469" y2="837.0469"/>
+        <line style="stroke:#181818;stroke-width:1.0;" x1="48" x2="267" y1="833.0469" y2="833.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="157" x="55"
+              y="827.981">24. &#20174;&#20108;&#32423;&#32531;&#23384;&#31227;&#38500;BeanA
+        </text>
+    </g>
+</svg>
